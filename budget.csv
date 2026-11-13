@@ -1,0 +1,9 @@
+level,name,budget_kg
+system,Structure,85.0
+system,Powertrain,150.0
+system,Electrical,20.0
+system,Interior,40.0
+system,Chassis,105.0
+zone,Front,75.0
+zone,Center,240.0
+zone,Rear,90.0

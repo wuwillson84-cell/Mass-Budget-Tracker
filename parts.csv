@@ -1,0 +1,21 @@
+component,system,zone,mass_kg,source_type,confidence
+Main frame,Structure,Center,42.0,measured,high
+Front subframe,Structure,Front,11.5,supplier,high
+Rear subframe,Structure,Rear,10.8,estimate,medium
+Body panels,Structure,Center,18.2,estimate,low
+Battery pack,Powertrain,Center,96.0,supplier,high
+Electric motor,Powertrain,Rear,34.5,supplier,high
+Inverter,Powertrain,Rear,8.9,supplier,medium
+Gearbox,Powertrain,Rear,14.2,estimate,medium
+Wiring harness,Electrical,Center,9.6,estimate,low
+ECU,Electrical,Front,1.4,measured,high
+Lighting,Electrical,Front,3.1,supplier,medium
+12V battery,Electrical,Front,4.2,supplier,high
+Seats,Interior,Center,22.0,supplier,medium
+Dashboard,Interior,Front,9.8,estimate,low
+Trim,Interior,Center,7.5,estimate,low
+Front suspension,Chassis,Front,16.4,measured,high
+Rear suspension,Chassis,Rear,17.9,supplier,medium
+Brakes,Chassis,Front,12.6,supplier,high
+Wheels & tyres,Chassis,Center,48.0,measured,high
+Steering,Chassis,Front,6.3,estimate,medium
